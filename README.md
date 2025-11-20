@@ -40,4 +40,3 @@ contemplando todas as entidades e relacionamentos necessários para operações 
 1. **Clone o repositório**
 ```bash
 git clone https://github.com/GabrielMendesdc/DIO-ecommerce-database.git
-cd ecommerce-database

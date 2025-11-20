@@ -1,0 +1,5 @@
+Pedido,Cliente,Produto,Quantidade,Status,"Valor Total"
+1,"João Silva","iPhone 14",1,Confirmado,5024.99
+1,"João Silva","Camiseta Nike",2,Confirmado,204.8
+2,"Maria Santos","Boneco Action",1,"Em processamento",84.9
+3,"Pedro Oliveira","Notebook Dell",1,Confirmado,3344.99
